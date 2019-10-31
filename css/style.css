@@ -13,10 +13,10 @@ h2 {
   font-style: italic;
 }
 
-/*.completed {*/
-  /*font-family: cursive;*/
+.completed {
+  font-family: cursive;
   
-/*}*/
+}
 
 #tasks .completed {
   background: #ccc;
